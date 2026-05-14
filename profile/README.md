@@ -49,4 +49,6 @@ Welcome! **CodeNest Community** is a hub for young and ambitious developers to e
    
 
 ---
+[![Discord](https://img.shields.io/discord/1503092012205740153?label=CodeNest%20Community&logo=discord&color=5865F2)](https://discord.gg/TdG3BhVF)
+
 *Created with ❤️ by Azizbek Abdullayev | 2026*
