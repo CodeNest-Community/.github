@@ -4,19 +4,19 @@
 
 ---
 
-
 Xush kelibsiz! **CodeNest Community** — bu yosh va shijoatli dasturchilarning o'zaro tajriba almashishi, birgalikda real loyihalar yaratishi va zamonaviy texnologiyalarni o'rganishi uchun tashkil etilgan hamjamiyatdir.
 
-### 🛠 Bizning Yo'nalishlar
-* **Frontend:** HTML5, CSS3, JavaScript, React.js, TypeScript.
-* **Backend:** Python (Django, FastAPI), Node.js.
-* **Game Dev:** Python (Ursina, Pygame).
-* **Automation:** Telegram botlar va CI/CD vositalari.
+### 🛠 Bizning Yo'nalishlar & Stack
+* **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS.
+* **Backend:** Python (Django, FastAPI, Flask), Node.js, NestJS, Express.js.
+* **Mobile Dev:** React Native, Flutter.
+* **Game Dev:** C++ (SFML), Python (Ursina, Pygame).
+* **Automation & Databases:** Telegram botlar, SQLite, PostgreSQL, MongoDB, Prisma, CI/CD vositalari.
 
 ### 🌟 Maqsadimiz
 1. **Ochiq kod (Open Source):** Loyihalarni birgalikda rivojlantirish.
 2. **Mentorlik:** Tajriba almashish va bir-birimizni qo'llab-quvvatlash.
-3. **Xatolarni xabar qiling** yoki **Issues** bo'limida yangi takliflar qoldiring.
+3. **Sifat va Standart:** Clean Code va zamonaviy dasturiy ta'minot me'morchiligiga yo'naltirilgan rivojlanish.
 
 ---
 
@@ -30,10 +30,11 @@ Xush kelibsiz! **CodeNest Community** — bu yosh va shijoatli dasturchilarning 
 Welcome! **CodeNest Community** is a hub for young and ambitious developers to exchange experience, build real-world projects together, and master modern technologies.
 
 ### 🛠 Our Tech Stack
-* **Frontend:** HTML5, CSS3, JavaScript, React.js, TypeScript.
-* **Backend:** Python (Django, FastAPI), Node.js.
-* **Game Dev:** Python (Ursina, Pygame).
-* **Automation:** Telegram bots and CI/CD tools.
+* **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS.
+* **Backend:** Python (Django, FastAPI, Flask), Node.js, NestJS, Express.js.
+* **Mobile Dev:** React Native, Flutter.
+* **Game Dev:** C++ (SFML), Python (Ursina, Pygame).
+* **Automation & Databases:** Telegram bots, SQLite, PostgreSQL, MongoDB, Prisma, CI/CD tools.
 
 ### 🌟 Our Goals
 1. **Open Source:** Developing and contributing to public projects together.
@@ -46,9 +47,9 @@ Welcome! **CodeNest Community** is a hub for young and ambitious developers to e
 1. **Fork** our repositories.
 2. Make your changes and send a **Pull Request**.
 3. **Discuss & Improve:** Report bugs or suggest new features via the **Issues** tab.
-   
 
 ---
-[![Discord](https://img.shields.io/discord/1503092012205740153?label=CodeNest%20Community&logo=discord&color=5865F2)](https://discord.gg/TdG3BhVF)
+
+[![Discord](https://img.shields.io/discord/1503092012205740153?label=CodeNest%20Community&logo=discord&color=5865F2)](https://discord.gg/5t3jHG3BnW)
 
 *Created with ❤️ by Azizbek Abdullayev | 2026*
